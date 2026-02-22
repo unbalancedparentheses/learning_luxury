@@ -103,7 +103,7 @@ Frameworks for understanding *why* people buy luxury and *how* status markets wo
 - **Thomaï Serdari** — [*Rethinking Luxury Fashion*](https://www.amazon.com/Rethinking-Luxury-Fashion-Cultural-Intelligence/dp/3030453006) (2020)
   Luxury's original values (durability, craftsmanship, timelessness) are **inherently sustainable**. The problem is conglomerates abandoned these values for fast-fashion volumes at luxury prices. Serdari argues for a return to genuine craft, local production, material integrity — "true luxury" is sustainable by definition. Directly relevant to positioning Laderas de los Andes, Ōtoro, Burgschneider.
 
-- **Brunello Cucinelli** — *The Dream of Solomeo* (various interviews and his company philosophy)
+- **Brunello Cucinelli** — [*The Dream of Solomeo*](https://www.brunellocucinelli.com/en/philosophy.html) (various interviews and his company philosophy)
   Not a traditional book but a lived philosophy. The "humanistic enterprise" model: pay craftsmen well, limit working hours, invest in the village, never discount, grow slowly. His company is publicly traded but operates on principles of dignity, craft, and patience. The most compelling case study for running a craft-luxury business without selling out. Read his annual letters to shareholders — they read more like philosophy than finance.
 
 ### Case Studies Worth Studying (not books, but essential models)
