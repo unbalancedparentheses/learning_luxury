@@ -41,6 +41,34 @@ Organized by what's useful, not by academic discipline. No history for its own s
 ### Case Studies
 - [Hermès: Craft as Strategy, Scarcity as Law - The Fashion Law (2024)](https://www.thefashionlaw.com/hermes-craft-as-strategy-scarcity-as-law/) - 55% in-house production, 74% made in France, 42% operating margins, artisan training, and the deliberate fiction of the Birkin "waiting list"
 
+### Luxury Brand Strategy & Theory (New)
+- [Luxury: Where Next? - Shukla (Psychology & Marketing, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22244) - Editorial surveying the future research agenda for luxury scholarship across marketing, psychology, and consumer behavior
+- [The Impact of Generation Z on the Luxury Market - Batamirova & Thrassou (Springer, 2025)](https://link.springer.com/chapter/10.1007/978-3-031-96680-4_2) - How Gen Z reshapes luxury values; 62% prioritize buying experience over the item itself
+
+### Digital Luxury, AI & Technology (New)
+- [Mapping the Future of Tech-Infused Luxury - Al-Issa & Thanasi (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13103) - Systematic review of AI, blockchain, NFTs, and metaverse across the luxury supply chain
+- [Phygital Luxury Experiences - Guzzetti, Crespi & Belvedere (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ijcs.13008) - How consumers perceive in-store phygital technologies (smart fitting rooms, AR mirrors) in luxury retail
+- [The Form of AI-Driven Luxury - Vecchi et al. (J. Marketing Management, 2024)](https://www.tandfonline.com/doi/full/10.1080/0267257X.2024.2436096) - Consumers perceive GAI-designed luxury products as reinforcing brand essence and symbolic values
+
+### Mimetic Desire & Girardian Theory (New)
+- [René Girard and the Western Philosophical Tradition, Vol. 1 - Wilmes & Dunn, eds. (MSU Press, 2024)](https://msupress.org/9781611864953/rene-girard-and-the-western-philosophical-tradition-volume-1/) - 14 chapters situating Girard from Plato to Kierkegaard; most comprehensive contextualization of mimetic theory
+- [Modernity and Mimetic Desire: A Critique of René Girard - Lev (Constellations, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/1467-8675.12640) - How Hobbes, Spinoza, and Hegel managed mimetic desire within the sovereign state
+
+### Luxury Resale & Circular Economy (New)
+- [Luxury in the Circular Economy: An Engagement Journey Perspective - Holmqvist et al. (J. Consumer Behaviour, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/cb.2460) - Three consumer engagement journeys in circular luxury: price-sensitive, uniqueness-seeking, sustainability-driven
+- [The Secondary Luxury Market: A Systematic Review - Muhamad et al. (Cogent Business & Management, 2025)](https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2523405) - SLM Framework combining Theory of Planned Behavior and Self-Congruity for secondhand luxury
+
+### Experiential Luxury (New)
+- [Conceptualizing and Measuring Customer Luxury Experience in Hotels - Christodoulides et al. (J. Travel Research, 2025)](https://journals.sagepub.com/doi/10.1177/00472875251363846) - Validated 20-item scale distinguishing luxury experience from ordinary service in hospitality
+
+### Attention Economy & Algorithmic Culture (New)
+- [Filterworld: How Algorithms Flattened Culture - Kyle Chayka (Doubleday, 2024)](https://www.kylechayka.com/filterworld) - How recommendation algorithms homogenize taste and erode autonomous aesthetic judgment
+- [The Sirens' Call: How Attention Became the World's Most Endangered Resource - Chris Hayes (Penguin, 2025)](https://www.npr.org/2024/01/17/1224955473/social-media-algorithm-filterworld) - The attention economy manufactures "stuffed and starved" dynamic: abundant engagement, scarce recognition
+
+### Byung-Chul Han (New Works)
+- [The Spirit of Hope - Byung-Chul Han (Polity, 2024)](https://www.politybooks.com/bookdetail?book_slug=the-spirit-of-hope--9781509565191) - With Anselm Kiefer illustrations; reverses Han's critical register to theorize hope as existential mood
+- [In Praise of the Earth: A Journey into the Garden - Byung-Chul Han (Polity, 2025)](https://www.politybooks.com/bookdetail?book_slug=in-praise-of-the-earth-a-journey-into-the-garden--9781509567898) - Philosophical meditations on gardening as slowness and care; resonates with craft and vita contemplativa
+
 ---
 
 ## 1. Philosophical Frameworks
