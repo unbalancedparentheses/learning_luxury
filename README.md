@@ -6,69 +6,6 @@ Organized by what's useful, not by academic discipline. No history for its own s
 
 ---
 
-## Not yet reviewed
-
-> These resources were recently found and have not been reviewed yet.
-
-### Luxury Industry Research (2022-2025)
-- [Luxury Report 2024: Rebuilding the Foundations of Luxury - D'Arpizio & Levato (Bain/Altagamma, 2024)](https://www.bain.com/insights/luxury-in-transition-securing-future-growth/) - First contraction in personal luxury goods in 15 years (EUR 363B), consumer base shrinking from 400M to 340M, structural shift toward experiences
-- [Finding a New Longevity for Luxury - D'Arpizio & Levato (Bain/Altagamma, 2025)](https://www.bain.com/insights/finding-a-new-longevity-for-luxury/) - EUR 1.44T global luxury spending, emerging markets (Middle East, India, SE Asia, LatAm) matching mainland China
-- [Luxury in the Midst of Change - KPMG (2025)](https://kpmg.com/ch/en/industries/consumer-retail/luxury-report.html) - Digital acceleration, AI personalization, EUR 48B second-hand luxury market, tension between ultra-wealthy and aspirational consumers
-- [The State of Fashion 2025 - McKinsey/BoF (2024)](https://www.businessoffashion.com/reports/news-analysis/the-state-of-fashion-2025-bof-mckinsey-report/) - 2-4% luxury growth projected, leather goods and jewellery leading at 4-6%, luxury value creation declined for first time since 2016
-- [Luxury Conglomerate Strategy: LVMH vs Kering - Serdari (Taylor & Francis, 2024)](https://www.tandfonline.com/doi/full/10.1080/20511817.2024.2438356) - LVMH's 75-brand diversification vs Kering's 15-brand focus; LVMH +27% CAGR vs Kering -19% in 2023-2024
-- [Global Powers of Luxury Goods 2024 - Deloitte (2024)](https://www.deloitte.com/global/en/Industries/consumer/perspectives/global-powers-of-luxury.html) - Top 100 luxury companies (USD 347B+ composite sales), financial performance, M&A, digital transformation
-- [Luxury Marketing, Sustainability and Technology - Thaichon & Quach (Routledge, 2023)](https://www.routledge.com/Luxury-Marketing-Sustainability-and-Technology-The-Future-of-Luxury-Management/Thaichon-Quach/p/book/9781032342924) - AI in luxury marketing, sustainability and pro-environmental luxury, relationship marketing
-
-### Inconspicuous Consumption & Quiet Luxury
-- [Conspicuous and Inconspicuous Consumption in a Digital World - Pangarkar & Shukla (Int. J. of Advertising, 2023)](https://www.tandfonline.com/doi/full/10.1080/02650487.2023.2246260) - Three consumption types and how AI, social media, VR/AR reshape luxury advertising
-- [Drivers of Stealth Luxury: Fashion Capital - Jeong & Lee (J. Retailing & Consumer Services, 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0969698925001808) - "Fashion capital" as predictor of stealth luxury; updates Bourdieu's framework for the quiet luxury era
-- [Hidden Signals of Luxury: Inconspicuous Consumption - Cho & Cho (J. Retailing & Consumer Services, 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0969698925001778) - Survey of 425 high-spending consumers on privacy, elitism, connoisseurship driving inconspicuous consumption
-
-### Sustainability-Luxury Paradox
-- [Navigating the Sustainability-Luxury Paradox - ShabbirHusain et al. (J. Consumer Behaviour, 2025)](https://onlinelibrary.wiley.com/doi/10.1002/cb.2469) - Bibliometric analysis mapping sustainable luxury research, identifying key themes and gaps
-
-### Craft, Artisanship & Philosophy of Making
-- [The Pursuit of Pleasurable Work - Trevor Marchand (Berghahn, 2022)](https://www.berghahnbooks.com/title/MarchandPursuit) - Anthropological study of woodworkers in London; extends Sennett's Craftsman with ethnographic depth on the desire to create with hands
-- [Made in Italy and the Luxury Market - Rovai & De Carlo (Routledge, 2023)](https://www.routledge.com/Made-in-Italy-and-the-Luxury-Market-Heritage-Sustainability-and-Innovation/Rovai-Carlo/p/book/9781032304380) - Country-of-origin effect in Italian luxury, from artisanal heritage to innovation; complements Cucinelli's philosophy
-- [A Century of Tomorrows - Glenn Adamson (Bloomsbury, 2024)](https://www.amazon.com/Century-Tomorrows-Imagining-Future-Present/dp/1639730230) - Cultural history of futurecasting from Buckminster Fuller to Afrofuturism; how luxury and craft position against technological futurism
-
-### Attention Economy, Time & Contemplation
-- [Saving Time: Discovering a Life Beyond the Clock - Jenny Odell (Random House, 2023)](https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/) - How our relationship to time connects to inequity and the climate crisis; alternative temporal experiences beyond productivity culture
-- [Vita Contemplativa: In Praise of Inactivity - Byung-Chul Han (Polity, 2023)](https://mitpressbookstore.mit.edu/book/9781509558018) - Inactivity as an intense form of life; critique of Arendt's "vita activa" and the compulsion of perpetual production
-- [The Crisis of Narration - Byung-Chul Han (Polity, 2024)](https://www.amazon.com/Crisis-Narration-Byung-Chul-Han/dp/1509560432) - Distinguishes genuine narration from "storyselling"; critiques luxury brand storytelling as commodification of narrative heritage
-- [The Politics of Curiosity: Alternatives to the Attention Economy - Campo & Citton (Routledge, 2024)](https://www.routledge.com/The-Politics-of-Curiosity-Alternatives-to-the-Attention-Economy/Campo-Citton/p/book/9781032513027) - 15 chapters on mental infrastructures, digital habits, and how luxury positions as antidote to attention fragmentation
-
-### Case Studies
-- [Hermès: Craft as Strategy, Scarcity as Law - The Fashion Law (2024)](https://www.thefashionlaw.com/hermes-craft-as-strategy-scarcity-as-law/) - 55% in-house production, 74% made in France, 42% operating margins, artisan training, and the deliberate fiction of the Birkin "waiting list"
-
-### Luxury Brand Strategy & Theory (New)
-- [Luxury: Where Next? - Shukla (Psychology & Marketing, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22244) - Editorial surveying the future research agenda for luxury scholarship across marketing, psychology, and consumer behavior
-- [The Impact of Generation Z on the Luxury Market - Batamirova & Thrassou (Springer, 2025)](https://link.springer.com/chapter/10.1007/978-3-031-96680-4_2) - How Gen Z reshapes luxury values; 62% prioritize buying experience over the item itself
-
-### Digital Luxury, AI & Technology (New)
-- [Mapping the Future of Tech-Infused Luxury - Al-Issa & Thanasi (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13103) - Systematic review of AI, blockchain, NFTs, and metaverse across the luxury supply chain
-- [Phygital Luxury Experiences - Guzzetti, Crespi & Belvedere (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ijcs.13008) - How consumers perceive in-store phygital technologies (smart fitting rooms, AR mirrors) in luxury retail
-- [The Form of AI-Driven Luxury - Vecchi et al. (J. Marketing Management, 2024)](https://www.tandfonline.com/doi/full/10.1080/0267257X.2024.2436096) - Consumers perceive GAI-designed luxury products as reinforcing brand essence and symbolic values
-
-### Mimetic Desire & Girardian Theory (New)
-- [René Girard and the Western Philosophical Tradition, Vol. 1 - Wilmes & Dunn, eds. (MSU Press, 2024)](https://msupress.org/9781611864953/rene-girard-and-the-western-philosophical-tradition-volume-1/) - 14 chapters situating Girard from Plato to Kierkegaard; most comprehensive contextualization of mimetic theory
-- [Modernity and Mimetic Desire: A Critique of René Girard - Lev (Constellations, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/1467-8675.12640) - How Hobbes, Spinoza, and Hegel managed mimetic desire within the sovereign state
-
-### Luxury Resale & Circular Economy (New)
-- [Luxury in the Circular Economy: An Engagement Journey Perspective - Holmqvist et al. (J. Consumer Behaviour, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/cb.2460) - Three consumer engagement journeys in circular luxury: price-sensitive, uniqueness-seeking, sustainability-driven
-- [The Secondary Luxury Market: A Systematic Review - Muhamad et al. (Cogent Business & Management, 2025)](https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2523405) - SLM Framework combining Theory of Planned Behavior and Self-Congruity for secondhand luxury
-
-### Experiential Luxury (New)
-- [Conceptualizing and Measuring Customer Luxury Experience in Hotels - Christodoulides et al. (J. Travel Research, 2025)](https://journals.sagepub.com/doi/10.1177/00472875251363846) - Validated 20-item scale distinguishing luxury experience from ordinary service in hospitality
-
-### Attention Economy & Algorithmic Culture (New)
-- [Filterworld: How Algorithms Flattened Culture - Kyle Chayka (Doubleday, 2024)](https://www.kylechayka.com/filterworld) - How recommendation algorithms homogenize taste and erode autonomous aesthetic judgment
-- [The Sirens' Call: How Attention Became the World's Most Endangered Resource - Chris Hayes (Penguin, 2025)](https://www.npr.org/2024/01/17/1224955473/social-media-algorithm-filterworld) - The attention economy manufactures "stuffed and starved" dynamic: abundant engagement, scarce recognition
-
-### Byung-Chul Han (New Works)
-- [The Spirit of Hope - Byung-Chul Han (Polity, 2024)](https://www.politybooks.com/bookdetail?book_slug=the-spirit-of-hope--9781509565191) - With Anselm Kiefer illustrations; reverses Han's critical register to theorize hope as existential mood
-- [In Praise of the Earth: A Journey into the Garden - Byung-Chul Han (Polity, 2025)](https://www.politybooks.com/bookdetail?book_slug=in-praise-of-the-earth-a-journey-into-the-garden--9781509567898) - Philosophical meditations on gardening as slowness and care; resonates with craft and vita contemplativa
-
 ---
 
 ## 1. Philosophical Frameworks
@@ -225,3 +162,66 @@ Optimized for building frameworks quickly, then going deeper.
 18. Pirsig — [*Zen and the Art of Motorcycle Maintenance*](https://archive.org/details/ZenAndTheArtOfMotorcycleRepair-RobertPirsig)
 19. Serdari — [*Rethinking Luxury Fashion*](https://www.amazon.com/Rethinking-Luxury-Fashion-Cultural-Intelligence/dp/3030453006)
 20. Smith — [*Theory of Moral Sentiments*](https://www.gutenberg.org/ebooks/67363), selected chapters
+
+## Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Luxury Industry Research (2022-2025)
+- [Luxury Report 2024: Rebuilding the Foundations of Luxury - D'Arpizio & Levato (Bain/Altagamma, 2024)](https://www.bain.com/insights/luxury-in-transition-securing-future-growth/) - First contraction in personal luxury goods in 15 years (EUR 363B), consumer base shrinking from 400M to 340M, structural shift toward experiences
+- [Finding a New Longevity for Luxury - D'Arpizio & Levato (Bain/Altagamma, 2025)](https://www.bain.com/insights/finding-a-new-longevity-for-luxury/) - EUR 1.44T global luxury spending, emerging markets (Middle East, India, SE Asia, LatAm) matching mainland China
+- [Luxury in the Midst of Change - KPMG (2025)](https://kpmg.com/ch/en/industries/consumer-retail/luxury-report.html) - Digital acceleration, AI personalization, EUR 48B second-hand luxury market, tension between ultra-wealthy and aspirational consumers
+- [The State of Fashion 2025 - McKinsey/BoF (2024)](https://www.businessoffashion.com/reports/news-analysis/the-state-of-fashion-2025-bof-mckinsey-report/) - 2-4% luxury growth projected, leather goods and jewellery leading at 4-6%, luxury value creation declined for first time since 2016
+- [Luxury Conglomerate Strategy: LVMH vs Kering - Serdari (Taylor & Francis, 2024)](https://www.tandfonline.com/doi/full/10.1080/20511817.2024.2438356) - LVMH's 75-brand diversification vs Kering's 15-brand focus; LVMH +27% CAGR vs Kering -19% in 2023-2024
+- [Global Powers of Luxury Goods 2024 - Deloitte (2024)](https://www.deloitte.com/global/en/Industries/consumer/perspectives/global-powers-of-luxury.html) - Top 100 luxury companies (USD 347B+ composite sales), financial performance, M&A, digital transformation
+- [Luxury Marketing, Sustainability and Technology - Thaichon & Quach (Routledge, 2023)](https://www.routledge.com/Luxury-Marketing-Sustainability-and-Technology-The-Future-of-Luxury-Management/Thaichon-Quach/p/book/9781032342924) - AI in luxury marketing, sustainability and pro-environmental luxury, relationship marketing
+
+### Inconspicuous Consumption & Quiet Luxury
+- [Conspicuous and Inconspicuous Consumption in a Digital World - Pangarkar & Shukla (Int. J. of Advertising, 2023)](https://www.tandfonline.com/doi/full/10.1080/02650487.2023.2246260) - Three consumption types and how AI, social media, VR/AR reshape luxury advertising
+- [Drivers of Stealth Luxury: Fashion Capital - Jeong & Lee (J. Retailing & Consumer Services, 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0969698925001808) - "Fashion capital" as predictor of stealth luxury; updates Bourdieu's framework for the quiet luxury era
+- [Hidden Signals of Luxury: Inconspicuous Consumption - Cho & Cho (J. Retailing & Consumer Services, 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0969698925001778) - Survey of 425 high-spending consumers on privacy, elitism, connoisseurship driving inconspicuous consumption
+
+### Sustainability-Luxury Paradox
+- [Navigating the Sustainability-Luxury Paradox - ShabbirHusain et al. (J. Consumer Behaviour, 2025)](https://onlinelibrary.wiley.com/doi/10.1002/cb.2469) - Bibliometric analysis mapping sustainable luxury research, identifying key themes and gaps
+
+### Craft, Artisanship & Philosophy of Making
+- [The Pursuit of Pleasurable Work - Trevor Marchand (Berghahn, 2022)](https://www.berghahnbooks.com/title/MarchandPursuit) - Anthropological study of woodworkers in London; extends Sennett's Craftsman with ethnographic depth on the desire to create with hands
+- [Made in Italy and the Luxury Market - Rovai & De Carlo (Routledge, 2023)](https://www.routledge.com/Made-in-Italy-and-the-Luxury-Market-Heritage-Sustainability-and-Innovation/Rovai-Carlo/p/book/9781032304380) - Country-of-origin effect in Italian luxury, from artisanal heritage to innovation; complements Cucinelli's philosophy
+- [A Century of Tomorrows - Glenn Adamson (Bloomsbury, 2024)](https://www.amazon.com/Century-Tomorrows-Imagining-Future-Present/dp/1639730230) - Cultural history of futurecasting from Buckminster Fuller to Afrofuturism; how luxury and craft position against technological futurism
+
+### Attention Economy, Time & Contemplation
+- [Saving Time: Discovering a Life Beyond the Clock - Jenny Odell (Random House, 2023)](https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/) - How our relationship to time connects to inequity and the climate crisis; alternative temporal experiences beyond productivity culture
+- [Vita Contemplativa: In Praise of Inactivity - Byung-Chul Han (Polity, 2023)](https://mitpressbookstore.mit.edu/book/9781509558018) - Inactivity as an intense form of life; critique of Arendt's "vita activa" and the compulsion of perpetual production
+- [The Crisis of Narration - Byung-Chul Han (Polity, 2024)](https://www.amazon.com/Crisis-Narration-Byung-Chul-Han/dp/1509560432) - Distinguishes genuine narration from "storyselling"; critiques luxury brand storytelling as commodification of narrative heritage
+- [The Politics of Curiosity: Alternatives to the Attention Economy - Campo & Citton (Routledge, 2024)](https://www.routledge.com/The-Politics-of-Curiosity-Alternatives-to-the-Attention-Economy/Campo-Citton/p/book/9781032513027) - 15 chapters on mental infrastructures, digital habits, and how luxury positions as antidote to attention fragmentation
+
+### Case Studies
+- [Hermès: Craft as Strategy, Scarcity as Law - The Fashion Law (2024)](https://www.thefashionlaw.com/hermes-craft-as-strategy-scarcity-as-law/) - 55% in-house production, 74% made in France, 42% operating margins, artisan training, and the deliberate fiction of the Birkin "waiting list"
+
+### Luxury Brand Strategy & Theory (New)
+- [Luxury: Where Next? - Shukla (Psychology & Marketing, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22244) - Editorial surveying the future research agenda for luxury scholarship across marketing, psychology, and consumer behavior
+- [The Impact of Generation Z on the Luxury Market - Batamirova & Thrassou (Springer, 2025)](https://link.springer.com/chapter/10.1007/978-3-031-96680-4_2) - How Gen Z reshapes luxury values; 62% prioritize buying experience over the item itself
+
+### Digital Luxury, AI & Technology (New)
+- [Mapping the Future of Tech-Infused Luxury - Al-Issa & Thanasi (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13103) - Systematic review of AI, blockchain, NFTs, and metaverse across the luxury supply chain
+- [Phygital Luxury Experiences - Guzzetti, Crespi & Belvedere (Int. J. Consumer Studies, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ijcs.13008) - How consumers perceive in-store phygital technologies (smart fitting rooms, AR mirrors) in luxury retail
+- [The Form of AI-Driven Luxury - Vecchi et al. (J. Marketing Management, 2024)](https://www.tandfonline.com/doi/full/10.1080/0267257X.2024.2436096) - Consumers perceive GAI-designed luxury products as reinforcing brand essence and symbolic values
+
+### Mimetic Desire & Girardian Theory (New)
+- [René Girard and the Western Philosophical Tradition, Vol. 1 - Wilmes & Dunn, eds. (MSU Press, 2024)](https://msupress.org/9781611864953/rene-girard-and-the-western-philosophical-tradition-volume-1/) - 14 chapters situating Girard from Plato to Kierkegaard; most comprehensive contextualization of mimetic theory
+- [Modernity and Mimetic Desire: A Critique of René Girard - Lev (Constellations, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/1467-8675.12640) - How Hobbes, Spinoza, and Hegel managed mimetic desire within the sovereign state
+
+### Luxury Resale & Circular Economy (New)
+- [Luxury in the Circular Economy: An Engagement Journey Perspective - Holmqvist et al. (J. Consumer Behaviour, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1002/cb.2460) - Three consumer engagement journeys in circular luxury: price-sensitive, uniqueness-seeking, sustainability-driven
+- [The Secondary Luxury Market: A Systematic Review - Muhamad et al. (Cogent Business & Management, 2025)](https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2523405) - SLM Framework combining Theory of Planned Behavior and Self-Congruity for secondhand luxury
+
+### Experiential Luxury (New)
+- [Conceptualizing and Measuring Customer Luxury Experience in Hotels - Christodoulides et al. (J. Travel Research, 2025)](https://journals.sagepub.com/doi/10.1177/00472875251363846) - Validated 20-item scale distinguishing luxury experience from ordinary service in hospitality
+
+### Attention Economy & Algorithmic Culture (New)
+- [Filterworld: How Algorithms Flattened Culture - Kyle Chayka (Doubleday, 2024)](https://www.kylechayka.com/filterworld) - How recommendation algorithms homogenize taste and erode autonomous aesthetic judgment
+- [The Sirens' Call: How Attention Became the World's Most Endangered Resource - Chris Hayes (Penguin, 2025)](https://www.npr.org/2024/01/17/1224955473/social-media-algorithm-filterworld) - The attention economy manufactures "stuffed and starved" dynamic: abundant engagement, scarce recognition
+
+### Byung-Chul Han (New Works)
+- [The Spirit of Hope - Byung-Chul Han (Polity, 2024)](https://www.politybooks.com/bookdetail?book_slug=the-spirit-of-hope--9781509565191) - With Anselm Kiefer illustrations; reverses Han's critical register to theorize hope as existential mood
+- [In Praise of the Earth: A Journey into the Garden - Byung-Chul Han (Polity, 2025)](https://www.politybooks.com/bookdetail?book_slug=in-praise-of-the-earth-a-journey-into-the-garden--9781509567898) - Philosophical meditations on gardening as slowness and care; resonates with craft and vita contemplativa
